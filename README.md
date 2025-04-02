@@ -64,8 +64,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
-## 📫 How to reach me
+## 💌 Contact
 
 - ✉ Email : clsclffk183@gmail.com  
-- 🐙 GitHub : [clsclffk](https://github.com/clsclffk)  
+- 🔗 GitHub : [clsclffk](https://github.com/clsclffk)  
 - 📝 Blog : [DE Log](https://clsclffk.github.io/)
