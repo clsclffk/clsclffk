@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-## My Skills Include
+## 🛠 My Skills Include
 
 <h3>Languages & Query</h3>
 <span> 
